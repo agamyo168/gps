@@ -15,3 +15,17 @@ After first deployment is successful the project will rely on github actions nex
 - Jest
 - Node
 - Docker & Docker-compose
+
+dotenv:
+
+```
+PORT=
+#DB
+DB_PORT=
+DB_USERNAME=
+DB_PASSWORD=
+DB_NAME=
+DB_TEST=
+DB_HOST=
+DB_DIALECT=
+```
